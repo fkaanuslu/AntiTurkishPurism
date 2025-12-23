@@ -68,4 +68,4 @@ Cemil Meriç (a leading Turkish intellectual) said that the dictionary forms the
 
 The essential issue for our nation’s survival is the “national language.” Our state must revive the genuine Turkish language in textbooks and radio-television programs. Otherwise, our language, which is the fundamental element of our national unity, will disappear, and serious intellectuals, writers, and poets will no longer emerge.
 
-Read more from [Numan Aydoğan Ünal](https://www.turkeytribune.com/author/numanaunal/)
+Written by [Numan Aydoğan Ünal](https://www.turkeytribune.com/author/numanaunal/)
