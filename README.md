@@ -1,4 +1,6 @@
-The artificial break in Turkish language
+# The Crisis of the Turkish Language: A Broken Cultural Chain
+
+## The artificial break in Turkish language
 
 One of the greatest calamities inflicted upon the Turkish nation in history is the blow dealt to its language over the last half-century. The planned and insidious name of this blow is “Öztürkçecilik” (Turkish Purism). In reality, this movement creates an artificial Turkish that pushes the language away from its roots. As this artificial Turkish spreads rapidly, earlier complaints about grandparents and grandchildren not understanding each other now extend to fathers and children.
 
@@ -13,14 +15,13 @@ Supporters of Turkish Purism show no reaction to thousands of French and English
 
 Today, nearly seven thousand French derived words remain in daily use. These include “aktif, avantaj, bagaj, branş, endüstri, kampanya, kontrol, departman, alternatif, direkt, liberal, pozitif, sosyal, reklam, roman.” Purists avoid none of these. Why, then, do they reject Arabic and Persian?
 
-Warnings from thinkers and scholars
+## Warnings from thinkers and scholars
+
 Prof. Dr. Ali Fuat Başgil (a major Turkish jurist and political thinker) explains that French contains Latin, Greek, and Frankish words. Yet no French citizen thinks of discarding them. English consists largely of French and German elements. Still, no English speaker proposes removing these roots.
 
 It is tragic that today’s youth cannot understand Başgil’s book “Gençlerle Başbaşa” (A Chat with the Youth). Turkish youth of the 1960s and 70s read it easily. Today, publishers feel forced to simplify the text.
 
 Prof. Dr. Ayhan Songar (a prominent Turkish psychiatrist and intellectual) notes that the 1890 Redhouse Dictionary recorded one hundred thousand Turkish words in active use. English had the same number at that time. Today, spoken Turkish has only about ten thousand words, while English has grown to one million.
-
-Read about the Turkestan Idea
 
 Prof. Dr. Nuri Köstüklü (a scholar of Turkish education and cultural history) reports that American primary school textbooks contain over 71,000 words, German books 70,400, Japanese books 44,224, while Turkish textbooks contain only about 5,000.
 
@@ -31,7 +32,8 @@ After the Soviet collapse, increased contact with the Turkic world revealed a st
 
 In recent years, however, some artificial Turkish has begun spreading to these regions through students studying in Turkey and through Turkish media.
 
-Foreign scholars express concern
+## Foreign scholars express concern
+
 Foreign experts also question the rapid transformation of Turkish. Prof. Dr. Fritz Neumark (a German economist who taught in Istanbul for many years) returned in the 1960s and noticed the drastic change. After an assistant asked him a question, he replied, “I cannot understand your question anymore. How can a nation produce lasting works if its language changes every few years?”
 
 Dr. Margaret Bainbridge (a linguist at the University of London) expressed similar concerns. She asked Nihat Sami Banarlı which Turkish she should teach in England. She argued that the Turkish spoken forty or fifty years earlier was coherent and beautiful, while the new form had lost its sound and style.
@@ -44,7 +46,8 @@ Atilla İlhan insisted that young people should learn Ottoman Turkish, just as t
 
 Anar Rızayev (a leading Azerbaijani writer and head of the Writers Union) pointed out a similar irony. He said, “I can read and understand the diwan of Yunus Emre, but I cannot understand its preface.”
 
-The deeper cultural risk
+## The deeper cultural risk
+
 Prof. Dr. Necmettin Hacıeminoğlu (a major Turkish linguist) warned that the post 1960 simplification movement became a cultural demolition. He believed the collapse of Turkish would accelerate if nationalists failed to resist.
 
 Prof. Dr. Faruk K. Timurtaş (a historian of Turkish and Ottoman language) described language as a matter of national defense. He argued that a nation protects its homeland, history, customs, and identity through its language.
@@ -61,5 +64,8 @@ Necip Fazıl Kısakürek (a major Turkish poet and thinker) warned that forced i
 
 Cemil Meriç (a leading Turkish intellectual) said that the dictionary forms the memory of a nation. He noted that even the French Revolution, despite its destruction, respected the dictionary.
 
-A call to preserve linguistic continuity
+## A call to preserve linguistic continuity
+
 The essential issue for our nation’s survival is the “national language.” Our state must revive the genuine Turkish language in textbooks and radio-television programs. Otherwise, our language, which is the fundamental element of our national unity, will disappear, and serious intellectuals, writers, and poets will no longer emerge.
+
+Read more from [Numan Aydoğan Ünal](https://www.turkeytribune.com/author/numanaunal/)
